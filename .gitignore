@@ -1,0 +1,5 @@
+*.idea/
+*.pyc
+.idea/workspace.xml
+.idea/PytestSelenium.iml
+.idea/misc.xml
